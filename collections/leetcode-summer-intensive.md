@@ -428,7 +428,7 @@ export const week5Problems = [
   {
     problemName: "0567 - Permutation in String",
     difficulty: "Medium",
-    leetCodeLink: "https://leetcode.com/problems/permutation-in-string//",
+    leetCodeLink: "https://leetcode.com/problems/permutation-in-string/",
     solutionLink: "../solutions/0500-0599/permutation-in-string-medium",
     tags: "Sliding Window",
   },
